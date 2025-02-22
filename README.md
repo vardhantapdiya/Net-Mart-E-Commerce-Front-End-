@@ -1,8 +1,3 @@
-# React + Vite
+<h1>Net Mart</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>I developed a responsive E-Commerce frontend using React and Redux for state management. Integrated a third-party product API to dynamically fetch and display products on the home page. I have implemented an Add to Cart functionality, allowing users to add, view, and remove products from the cart while displaying the total cart amount in real time. I have styled the UI using TailwindCSS for a clean and modern design.</p>
